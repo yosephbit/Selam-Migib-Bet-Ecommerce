@@ -1,4 +1,4 @@
-**Selam-Migib-Bet-Ecommerce is an ecommerce made for an Ethiopian restaurant called Selam which means Peace in Ethiopia.**
+**Selam-Migib-Bet-Ecommerce is an ecommerce made for an Ethiopian restaurant called **Selam** which means Peace in English.**
 
 ![Screenshot (262)](https://user-images.githubusercontent.com/48250220/191907727-6f3155f9-53c1-4f73-a639-15a3df620bb4.png)
 ![Screenshot (263)](https://user-images.githubusercontent.com/48250220/191907740-b59b4c10-6550-4b9e-bc35-483c633667f6.png)
